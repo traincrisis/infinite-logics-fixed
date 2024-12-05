@@ -1,6 +1,6 @@
 {
 	"size": 1
-	"health": 10000
+	"health": 30000
 	"category": "logic"
 	"requirements": [
 		{"item": "silicon", "amount": 5 }
