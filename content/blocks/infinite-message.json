@@ -1,6 +1,6 @@
 {
 	"size": 1
-	"health": 10000
+	"health": 30000
 	"maxTextLength": 65536
 	"maxNewLines": 65536
 	"category": "logic"
