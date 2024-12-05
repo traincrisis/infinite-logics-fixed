@@ -1,9 +1,10 @@
 {
-"name": "infinite-logics",
-"displayName": "infinite/logics",
-"author": "Krita",
-"description": "adding best processors in sandbox",
-"version": "3",
+"name": "infinite-logics-fixed",
+"displayName": "Infinite Logics Fixed",
+"author": "ThePullerCell (original by Krita)",
+"description": "",
+"version": "Adds OP fast logic blocks to sandbox. Not recommended for use survival, original mod from Krita-Burstflakes, revamped fork by ThePullerCell.
+",
 "minGameVersion": "145",
 "dependencies": []
 }
