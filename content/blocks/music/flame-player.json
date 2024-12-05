@@ -1,5 +1,5 @@
 {
-    "health": 10000
+    "health": 30000
     "size": 1
     "requirements": [
         {"item": "silicon", "amount": 50 }
