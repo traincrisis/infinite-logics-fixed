@@ -1,6 +1,6 @@
 {
 	"size": 1
-	"health": 10000
+	"health": 30000
 	"memoryCapacity": 16384
 	"category": "logic"
 	"requirements": [
